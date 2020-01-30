@@ -7,7 +7,7 @@ url: "https://bunchofcoders.github.io" # the base hostname & protocol for your s
 
 github_username: bunchofcoders
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 
 github:
   repository_url: "https://github.com/bunchofcoders"
